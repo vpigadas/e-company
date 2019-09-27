@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">E-Company</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_company">Companies</string>
+    <string name="tab_users">Users</string>
+
+    <string name="speciality_label">Speciality %s</string>
+
+    <string name="add_company">Add New Company</string>
+    <string name="add_user">Add New User</string>
+    <string name="add_save">Save</string>
+    <string name="error_empty_input">Please fill the field</string>
+
+    <string name="user_details_address">Address</string>
+    <string name="user_details_phone">Phone</string>
+    <string name="user_details_speciality">Speciality</string>
+    <string name="user_details_company">Company</string>
+
+    <string name="add_user_first_name_label">User First Name</string>
+    <string name="add_user_last_name_label">User Last Name</string>
+    <string name="add_user_phone_label">User Phone</string>
+    <string name="add_user_address_label">User Address</string>
+    <string name="add_user_speciality_label">User Speciality</string>
+
+    <string name="add_company_name_label">Company Name</string>
+    <string name="add_company_address_label">Company Address</string>
+    <string name="add_company_phone_label">Company Phone</string>
+    <string name="add_company_speciality_label">Company Speciality</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
